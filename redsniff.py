@@ -1,7 +1,7 @@
 #
 # RedSniff
 # 
-# Python Sniffer by ReverseTeam
+# Python Sniffer by S4m Jr
 #
 # Developer: Sam Junior
 #
@@ -27,9 +27,9 @@ ban = '''\033[1;31m
 ██   █    ██ ██   ██ ██ ██ ██ ██   ██   v1.0    
 ██   ████ █████ ████ ██ ██ ██ ██   ██
 \033[m
-Python Sniffer | By: ReverseTeam
-         t.me/ReverseTeam
-     github.com/ReverseTeamOrg      
+Python Sniffer | By: S4m Jr
+         t.me/SHI3LD
+     github.com/S4mJr/Redsniff      
 
 '''
 
