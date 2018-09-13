@@ -20,7 +20,7 @@ Telegram: <a href="https://t.me/un00mz">@SamJunior</a>
 
 ### CLONE
 ```
-git clone https://github.com/ReverseTeamOrg/RedSniff
+git clone https://github.com/S4mJr/RedSniff
 ```
 
 ### RUNNING
