@@ -34,4 +34,4 @@ sudo python3 redsniff.py
 ```
 
 ### SCREENSHOT
-![Shot](https://github.com/ReverseTeamOrg/RedSniff/blob/master/sc.png)
+![Shot](https://github.com/S4mJr/RedSniff/blob/master/sc.png)
